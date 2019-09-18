@@ -1,0 +1,11 @@
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\bin\Debug\netcoreapp2.1\PW2.deps.json
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\bin\Debug\netcoreapp2.1\PW2.runtimeconfig.json
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\bin\Debug\netcoreapp2.1\PW2.runtimeconfig.dev.json
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\bin\Debug\netcoreapp2.1\PW2.dll
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\bin\Debug\netcoreapp2.1\PW2.pdb
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\obj\Debug\netcoreapp2.1\PW2.csprojAssemblyReference.cache
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\obj\Debug\netcoreapp2.1\PW2.csproj.CoreCompileInputs.cache
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\obj\Debug\netcoreapp2.1\PW2.AssemblyInfoInputs.cache
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\obj\Debug\netcoreapp2.1\PW2.AssemblyInfo.cs
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\obj\Debug\netcoreapp2.1\PW2.dll
+C:\Users\ОралбаевГ\source\repos\PW2\PW2\obj\Debug\netcoreapp2.1\PW2.pdb
